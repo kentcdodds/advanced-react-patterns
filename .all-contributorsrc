@@ -403,6 +403,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ianjmacintosh",
+      "name": "Ian MacIntosh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1103259?v=4",
+      "profile": "http://www.ianjmacintosh.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoHost": "https://github.com",
