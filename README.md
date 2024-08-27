@@ -241,6 +241,7 @@ Thanks goes to these wonderful people
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://junagao.com"><img src="https://avatars.githubusercontent.com/u/615616?v=4?s=100" width="100px;" alt="juliane nagao"/><br /><sub><b>juliane nagao</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=junagao" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.ianjmacintosh.com"><img src="https://avatars.githubusercontent.com/u/1103259?v=4?s=100" width="100px;" alt="Ian MacIntosh"/><br /><sub><b>Ian MacIntosh</b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=ianjmacintosh" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Creeland"><img src="https://avatars.githubusercontent.com/u/518406?v=4?s=100" width="100px;" alt="Creeland A. Provinsal "/><br /><sub><b>Creeland A. Provinsal </b></sub></a><br /><a href="https://github.com/kentcdodds/advanced-react-patterns/commits?author=Creeland" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
